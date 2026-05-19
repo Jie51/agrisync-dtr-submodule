@@ -1,0 +1,22 @@
+# Initialize local Git repository tracking
+git init
+
+# Create and populate your local configuration ignore properties
+cat <<EOT > .gitignore
+target/
+*.jar
+*.war
+*.ear
+*.log
+.idea/
+*.iml
+*.ipr
+.metadata/
+.settings/
+bin/
+.vscode/
+.DS_Store
+Thumbs.db
+*.sql
+.env
+EOT

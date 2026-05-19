@@ -1,0 +1,10 @@
+com\example\mauswag\controller\EmployeeController.class
+com\example\mauswag\repository\LaborRateLogRepository.class
+com\example\mauswag\service\AttendanceService.class
+com\example\mauswag\model\Employee.class
+com\example\mauswag\controller\AttendanceController.class
+com\example\mauswag\model\LaborRateLog.class
+com\example\mauswag\repository\EmployeeRepository.class
+com\example\mauswag\repository\AttendanceRepository.class
+com\example\mauswag\MauswagApplication.class
+com\example\mauswag\model\Attendance.class
